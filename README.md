@@ -2,4 +2,4 @@
 	6-1：【JavaScriptの概要を学ぼう】[Start]→[Finish]  
 	6-2：【JavaScriptの基本文法】[Start]→[Finish]  
 	6-3：【関数】[Start]→[Finish]  
-	6-4：【jQueryを使ってみよう】[Start]  
+	6-4：【jQueryを使ってみよう】[Start]→[Finish]  

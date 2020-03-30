@@ -4,4 +4,4 @@
 	6-3：【関数】[Start]→[Finish]  
 	6-4：【jQueryを使ってみよう】[Start]→[Finish]  
 	6-5：【jQueryでHTMLのCSS要素を操作しよう】[Start]→[Finish]  
-	6-6：【イベントを検出しよう】[Start]  
+	6-6：【イベントを検出しよう】[Start]→[Finish]  

@@ -7,3 +7,4 @@
 	6-6：【イベントを検出しよう】[Start]→[Finish]  
 	6-7：【thisとchildren】[Start]→[Finish]  
 	6-8：【jQueryのプラグインを導入しよう】[Start]→[Finish]  
+	6-9；【トップに戻るを作ってみよう】[Start]→[Finish]  

@@ -11,3 +11,5 @@
 	6-10：【ハンバーガーメニューを作ってみよう】→[Finish]  
 	6-11：【タブメニューを作ってみよう】[Start]→[Finish]  
 	6-12：【Ajaxを学ぼう】[Start]→[Finish]  
+	6-13：【RailsにJS,jQueryを実装しよう】[Start]  
+
